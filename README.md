@@ -1,15 +1,13 @@
-### Hi there 👋
-
 <h1 align="start">Hi there 👋, here's Judi (Łukasz Michnik)</h1>
 
-<p align="start">I did: </p>
+<h3 align="start">I did: </h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,threejs,styledcomponents,sass,jest,supabase,html,css" />
   </a>
 </p>
 
-<p align="start">To learn: </p>
+<h3 align="start">To learn: </h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,mongodb" />
