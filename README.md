@@ -1,4 +1,4 @@
-<h1 align="start">Hi there 👋, here's Judi (Łukasz Michnik)</h1>
+<h1 align="start">Hello there, here's Judi (Łukasz Michnik)</h1>
 
 <h3 align="start">I did: </h3>
 <p align="center">
