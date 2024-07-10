@@ -3,14 +3,14 @@
 <h3 align="start">I did: </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,threejs,styledcomponents,sass,jest,mongodb,supabase,html,css" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,threejs,styledcomponents,sass,jest,mongodb,supabase,html,css" />
   </a>
 </p>
 
 <h3 align="start">Currently learning: </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,docker" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,docker" />
   </a>
 </p>
 
